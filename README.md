@@ -54,15 +54,6 @@
 
 ---
 
-### 🚀 Featured Projects
-<div align="center">
-  <!-- Add your top projects here with badges or cards -->
-  - **[Project 1](https://github.com/imalkajay/project1)**: Brief description of your awesome project.
-  - **[Project 2](https://github.com/imalkajay/project2)**: Another exciting contribution.
-</div>
-
----
-
 <div align="center">
   <i>Let's code, collaborate, and conquer! 🌌</i>
   <br><br>
