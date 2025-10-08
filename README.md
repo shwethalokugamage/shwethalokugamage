@@ -12,14 +12,12 @@
 ---
 
 ### 🌟 About Me
-- 🌱 I’m currently learning **New Technologies**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **shwethalokugamage@gmail.com**
-
-- ⚡ Fun fact **MusicLover**
-
+- 🔭 I’m currently working on **personal projects and open-source contributions**
+- 🌱 I’m currently learning **Advanced Java, Full-Stack Web Development, and Cloud Technologies**
+- 👯 I’m looking to collaborate on **innovative software solutions and tech tutorials**
+- 💬 Ask me about **Java, Web Technologies, and Database Design**
+- 📫 How to reach me: **shwethalokugamage@gmail.com**
+- ⚡ Fun fact: **Music Lover** 🎵
 
 ---
 
@@ -34,11 +32,7 @@
 
 ### 🛠️ Languages & Tools
 <div align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="css3" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Git.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a>
+  [![My Skills](https://skillicons.dev/icons?i=java,html,css,git,mysql)](https://skillicons.dev)
 </div>
 
 ---
@@ -52,6 +46,26 @@
 
 ---
 
+### 🎵 Currently Listening
+<div align="center">
+  <!-- Replace with your Spotify widget setup: https://github.com/kittl/spotify-github-profile -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?hash=your-spotify-hash" alt="Spotify Playing" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+<div align="center">
+  <!-- Add your top projects here with badges or cards -->
+  - **[Project 1](https://github.com/imalkajay/project1)**: Brief description of your awesome project.
+  - **[Project 2](https://github.com/imalkajay/project2)**: Another exciting contribution.
+</div>
+
+---
+
 <div align="center">
   <i>Let's code, collaborate, and conquer! 🌌</i>
+  <br><br>
+  <a href="https://github.com/imalkajay?tab=repositories"><img src="https://img.shields.io/badge/View%20My%20Repos-black?style=flat&logo=github&logoColor=white" alt="View Repos"></a>
+  <a href="mailto:shwethalokugamage@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-blue?style=flat&logo=gmail&logoColor=white" alt="Contact Me"></a>
 </div>
