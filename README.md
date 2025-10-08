@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno3MGVmcHJvdTlkMTdsa2E1Y293ODVmdzlzazdwaHFqbDBhOGthOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif" alt="java" width="600" height="250"/>
 </div>
 
-<h1 align="center">👋 Hi, I'm Imalka Jay! 🚀</h1>
+<h1 align="center">👋 Hi, I'm Shwetha Lokugamage! 🚀</h1>
 <h3 align="center">Software Engineering Student | Code Crafter</h3>
 
 <div align="center">
