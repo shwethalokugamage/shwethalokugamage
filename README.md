@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno3MGVmcHJvdTlkMTdsa2E1Y293ODVmdzlzazdwaHFqbDBhOGthOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rbst7XSD9K2dsazQTE/giphy.gif" alt="java" width="600" height="250"/>
+  <img src="https://camo.githubusercontent.com/428feb3c47baf3db1e34cdd839386a3d4bbe6c2c4b2671111f4c0edff0bedae0/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f666c6167732f68642f6972616e706172726f742e676966" alt="java" width="600" height="250"/>
 </div>
 
 <h1 align="center">👋 Hi, I'm Shwetha Lokugamage! 🚀</h1>
