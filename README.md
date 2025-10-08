@@ -46,14 +46,6 @@
 
 ---
 
-### 🎵 Currently Listening
-<div align="center">
-  <!-- Replace with your Spotify widget setup: https://github.com/kittl/spotify-github-profile -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?hash=your-spotify-hash" alt="Spotify Playing" />
-</div>
-
----
-
 <div align="center">
   <i>Let's code, collaborate, and conquer! 🌌</i>
   <br><br>
